@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "list.h": "c",
+        "FreeRTOS.h": "c",
+        "FreeRTOSConfig.h": "c"
+    }
+}
